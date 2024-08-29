@@ -24,6 +24,10 @@ I developed a thermal test stand to evaluate the cooling performance of composit
 
 After executing three control studies to confirm the system’s accuracy, I programmed an Omega data acquisition system to automate irradiation tests. This increased throughput 6x (previously 3 hours per sample) through parallel testing and automatic data logging. Finally, I analyzed and visualized my results in Python. The project successfully demonstrated the effectiveness of the coatings in reducing thermal loads, contributing to the development of more energy-efficient roofing materials.
 
+### Fusion Energy Modeling
+During an internship at Princeton Plasma Physics Laboratory, I modeled energy extraction from fusion plasmas by simulating a fluidized bed heat exchanger using Ansys Fluent CFD. The project aims to optimize the heat transfer processes within this system to improve the efficiency of future fusion engine designs. I used the simulations to compare the performance of various thermodynamic cycles, assessing their effectiveness in converting the extracted thermal energy into usable fusion power. The simulations will provide insights into which cycles offered the highest efficiency gains, informing the design of more effective heat exchangers and contributing to the development of next-generation fusion reactors.
+
+
 ### Carbon Upcycled: CO2 Capture Reactor Concept
 
 ![Carbon valorization reaction scheme](assets/reactor_design.png)
