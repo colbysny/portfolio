@@ -1,6 +1,6 @@
-# portfolio
+# Projects
 
-# Composite Polymer Electrolytes
+### Composite Polymer Electrolytes
 
 ![Abstract Figure](assets/electrolyte_abstract.png)
 
@@ -16,7 +16,7 @@ To complete this research project, I learned a wide variety of materials process
 - FTIR and Raman spectroscopy
 - Electrochemical impedance (dielectric) spectroscopy
 
-# Thermal Coating Test Stand
+### Thermal Coating Test Stand
 
 ![Test stand during an outdoor irradiation experiment](assets/outdoor_roof_photo.png)
 
@@ -24,7 +24,7 @@ I developed a thermal test stand to evaluate the cooling performance of composit
 
 After executing three control studies to confirm the system’s accuracy, I programmed an Omega data acquisition system to automate irradiation tests. This increased throughput 6x (previously 3 hours per sample) through parallel testing and automatic data logging. Finally, I analyzed and visualized my results in Python. The project successfully demonstrated the effectiveness of the coatings in reducing thermal loads, contributing to the development of more energy-efficient roofing materials.
 
-# Carbon Upcycled: CO2 Capture Reactor Concept
+### Carbon Upcycled: CO2 Capture Reactor Concept
 
 ![Carbon valorization reaction scheme](assets/reactor_design.png)
 
