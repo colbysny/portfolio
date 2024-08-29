@@ -1,7 +1,11 @@
+theme: jekyll-theme-minimal
 title: Colby Snyder
 logo: /assets/headshot_circle.png
-description: >
-  Chemical engineering, physics, and materials research @ UPenn <br>
-  <a href="https://www.linkedin.com/in/colbysny/" target="_blank">Connect on LinkedIn</a>
-theme: jekyll-theme-minimal
+description: Chemical engineering, physics, and materials research @ UPenn
 
+# Add navigation links
+navigation:
+  - name: "Projects"
+    link: "/"
+  - name: "Publications"
+    link: "/portfolio/publications/"
