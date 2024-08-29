@@ -3,7 +3,7 @@ title: Colby Snyder
 description: > # this means to ignore newlines until "baseurl:"
   A brief description of your site or personal portfolio.
 url: "https://colbysny.github.io/portfolio" # Your website URL (without trailing slash)
-baseurl: "" # The subpath of your site, e.g., /blog if your site is a subdirectory
+baseurl: "/portfolio" # The subpath of your site, e.g., /blog if your site is a subdirectory
 
 # Permalinks for posts
 permalink: /:year/:month/:day/:title/
