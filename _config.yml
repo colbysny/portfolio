@@ -1,0 +1,53 @@
+# Site settings
+title: Colby Snyder
+description: > # this means to ignore newlines until "baseurl:"
+  A brief description of your site or personal portfolio.
+url: "https://colbysny.github.io/portfolio" # Your website URL (without trailing slash)
+baseurl: "" # The subpath of your site, e.g., /blog if your site is a subdirectory
+
+# Permalinks for posts
+permalink: /:year/:month/:day/:title/
+
+# GitHub settings
+github_username: colbysny
+repository: colbysny.github.io/portfolio
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Your Name"
+
+# Build settings
+theme: minima # Replace with the theme you're using
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclusions
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Include custom files
+include:
+  - _pages
+
+# Author settings
+author:
+  name: "Colby Snyder"
+  email: colbysny@seas.upenn.edu
+  linkedin: linkedin.com/in/colbysny
+
+
+
+# SEO settings
+seo:
+  title: Colby Snyder's Portfolio
+  description: Engineering and research portfolio for Colby Snyder.
+  url: "https://colbysny.github.io/portfolio"
