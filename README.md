@@ -41,7 +41,7 @@ Check out an earlier Arduino-based iteration of this project **[here](./assets/d
 <br><br>
 ## Fusion Energy Modeling with ANSYS
 ### _computational physics for the future of energy_
-During an internship at Princeton Plasma Physics Laboratory, I modeled energy extraction from fusion plasmas by simulating a fluidized bed heat exchanger using Ansys Fluent CFD. The project aims to optimize the heat transfer processes within this system to improve the efficiency of future fusion engine designs. I used the simulations to compare the performance of various thermodynamic cycles, assessing their effectiveness in converting the extracted thermal energy into usable fusion power. The simulations will provide insights into which cycles offered the highest efficiency gains, informing the design of more effective heat exchangers and contributing to the development of next-generation fusion reactors.
+During an (ongoing) internship at Princeton Plasma Physics Laboratory, I modeled energy extraction from fusion plasmas by simulating a fluidized bed heat exchanger using Ansys Fluent CFD. The project aims to optimize the heat transfer processes within this system to improve the efficiency of future fusion power plant designs. I'm using the simulations to compare the performance of various thermodynamic cycles, assessing their effectiveness in converting the extracted thermal energy into usable fusion power. The simulations will provide insights into which cycles offer the highest efficiencies, informing the design of more effective heat exchangers for fusion.
 
 <br><br>
 
