@@ -44,9 +44,10 @@ Check out an earlier Arduino-based iteration of this project **[here](./assets/d
 
 ## Ceramic Composite Process Development
 ### _nuclear materials engineering internship_ 
-![SiGA](assets/SiGA.jpg)
 
 ![GA](assets/GA.jpeg)
+![SiGA](assets/SiGA.jpg)
+
 
 I had the opportunity to intern at General Atomics during the summer of 2024. Due to the confidential nature of this work, I'm limited in what I can disclose, but my project focused on improving the performance and manufacturing efficiency of silicon carbide composites for harsh environments (fusion, fission, hydrogen turbines). My work resulted in an 80% reduction in process energy intensity, slashing costs and emissions. Skills I used included: 
 
