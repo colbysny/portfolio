@@ -1,8 +1,8 @@
 # Projects
 - [Sodium Battery Electrolytes](#sodium-battery-electrolytes)
 - [Thermal Test Stand](#thermal-coating-test-stand)
-- [Fusion Energy Modeling](#fusion-energy-modeling-with-ANSYS)
-- [Carbon Upcycled](#carbon-upcycled)
+- [Fusion Energy Modeling](#fusion-energy-modeling-with-ansys)
+- [Carbon Upcycled](#carbon-upcycled-co2-capture-reactor-design)
 
 <br>
 
