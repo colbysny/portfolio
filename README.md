@@ -43,8 +43,23 @@ Check out an earlier Arduino-based iteration of this project **[here](./assets/d
 ### _computational physics for the future of energy_
 During an (ongoing) internship at Princeton Plasma Physics Laboratory, I modeled energy extraction from fusion plasmas by simulating a fluidized bed heat exchanger using Ansys Fluent CFD. The project aims to optimize the heat transfer processes within this system to improve the efficiency of future fusion power plant designs. I'm using the simulations to compare the performance of various thermodynamic cycles, assessing their effectiveness in converting the extracted thermal energy into usable fusion power. The simulations will provide insights into which cycles offer the highest efficiencies, informing the design of more effective heat exchangers for fusion.
 
-<br><br>
 
+## Ceramic Composite Process Development
+### _Nuclear Materials Engineering Internship @ General Atomics_ 
+![SiGA](assets/SiGA.jpg)
+
+I had the opportunity to intern at General Atomics during the summer of 2024. Due to the confidential nature of this work, I'm limited in what I can disclose, but my project focused on improving the performance and manufacturing efficiency of silicon carbide composites for harsh environments (fusion, fission, hydrogen turbines). Skills I used included: 
+
+- Fiber winding and layup
+- Furnace operation for chemical vapor infiltration and deposition (CVI/CVD)
+- MATLAB and Excel programming
+- SolidWorks CAD design
+- Electrical power metering
+- Process modeling (duration, energy intensity, carbon emissions, cost)
+- Polymer synthesis and characterization
+
+
+<br><br>
 
 ## Carbon Upcycled: CO<sub>2</sub> Capture Reactor Design
 ### _startup concept to make carbon capture profitable_
