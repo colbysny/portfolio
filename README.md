@@ -45,8 +45,10 @@ During an (ongoing) internship at Princeton Plasma Physics Laboratory, I modeled
 
 
 ## Ceramic Composite Process Development
-### _Nuclear Materials Engineering Internship @ General Atomics_ 
+### _nuclear materials engineering internship_ 
 ![SiGA](assets/SiGA.jpg)
+
+![GA](assets/GA.jpg)
 
 I had the opportunity to intern at General Atomics during the summer of 2024. Due to the confidential nature of this work, I'm limited in what I can disclose, but my project focused on improving the performance and manufacturing efficiency of silicon carbide composites for harsh environments (fusion, fission, hydrogen turbines). Skills I used included: 
 
