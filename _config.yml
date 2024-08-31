@@ -1,11 +1,9 @@
 theme: jekyll-theme-minimal
 title: Colby Snyder
 logo: /assets/headshot_circle.png
-description: Chemical engineering, physics, and materials research @ UPenn
+description: >
+  Hi! I’m Colby, a junior at UPenn pursuing dual Bachelor’s degrees in Chemical Engineering and Physics. Reach out by <a href="mailto:colbysny@seas.upenn.edu">email</a> or <a href="https://www.linkedin.com/in/colbysny/">LinkedIn</a> if you’d like to chat!
 
-# Add navigation links
-navigation:
-  - name: "Projects"
-    link: "/"
-  - name: "Publications"
-    link: "/portfolio/publications/"
+
+
+
