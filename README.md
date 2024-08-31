@@ -1,10 +1,10 @@
 # Projects
 - [Sodium Battery Electrolytes](#sodium-battery-electrolytes)
-- [Thermal Coating Test Stand](#thermal-coating-test-stand)
+- [Thermal Test Stand](#thermal-coating-test-stand)
 - [Fusion Energy Modeling](#fusion-energy-modeling-with-ANSYS)
-- [CO<sub>2</sub> Capture Reactor](#carbon-upcycled-co2-capture-reactor-concept)
+- [Carbon Upcycled](#carbon-upcycled)
 
-<br><br>
+<br>
 
 ## Sodium Battery Electrolytes
 ### _peer-reviewed materials engineering research_ 
