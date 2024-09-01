@@ -16,7 +16,7 @@ I led the development of novel composite polymer electrolytes to improve the ene
 
 My research established a non-monotonic relationship between BN, polymer crystallinity, and ionic conductivity. This finding was published in the [first of two peer-reviewed papers](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c06455){:target="_blank"}. The [second paper](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.4c01192){:target="_blank"} built on this knowledge, using a new salt, NaFSI, to increase conductivity (via increased dissociation). These results contribute to safer, more efficient solid polymer electrolytes and provide key insights into how fillers affect ion transport in solid-state batteries.
 
-For more details, check out these **[slides](./assets/documents/VIPR 121 Final Presentation.pdf)** or the **[poster](./assets/documents/APS Electrolyte Poster Final.pdf)** I presented at the national [APS conference](https://march.aps.org){:target="_blank"}!
+For more details, check out these **[slides](./assets/documents/VIPR 121 Final Presentation.pdf){:target="_blank"}** or the **[poster](./assets/documents/APS Electrolyte Poster Final.pdf){:target="_blank"}** I presented at the national [APS conference](https://march.aps.org){:target="_blank"}!
 
 
 To complete this research project, I learned a wide variety of materials processing and characterization techniques:
@@ -37,7 +37,7 @@ I developed a thermal test stand to evaluate the cooling performance of composit
 
 After executing three control studies to confirm the system’s accuracy, I programmed an Omega data acquisition system to automate irradiation tests. This increased throughput 6x (previously 3 hours per sample) through parallel testing and automatic data logging. Finally, I analyzed and visualized my results in Python. The project successfully demonstrated the effectiveness of the coatings in reducing thermal loads, contributing to the development of more energy-efficient roofing materials.
 
-Check out an earlier Arduino-based iteration of this project **[here](./assets/documents/Cool Roofs Design V1.pdf)**!
+Check out an earlier Arduino-based iteration of this project **[here](./assets/documents/Cool Roofs Design V1.pdf){:target="_blank"}**!
 
 <br><br>
 
@@ -75,4 +75,4 @@ During an (ongoing) internship at Princeton Plasma Physics Laboratory, I modeled
 I designed a self-sustaining reactor to commercialize innovative chemistry from Brookhaven National Lab (Nature Catalysis 7, 98–109, 2024). The reactor converts CO<sub>2</sub> and water into valuable carbon nanofibers, with oxygen and hydrogen as byproducts. The hydrogen and oxygen are then combusted to power a thermocatalytic reactor, making the system truly carbon-negative. This concept could potentially become the first profitable carbon capture reactor in history.
 I conducted a technoeconomic analysis of each process step, complementing my two teammates' research on the CO<sub>2</sub> capture and carbon nanofiber markets. The concept was pitched in the Department of Energy’s Energy Tech University Prize competition, where it was selected as a national semifinalist.
 
-**[View our pitch deck here!](./assets/documents/Carbon Upcycled Pitch.pdf)**
+**[View our pitch deck here!](./assets/documents/Carbon Upcycled Pitch.pdf){:target="_blank"}**
