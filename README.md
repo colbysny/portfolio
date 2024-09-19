@@ -16,6 +16,8 @@ I led the development of novel composite polymer electrolytes to improve the ene
 
 My research established a non-monotonic relationship between BN, polymer crystallinity, and ionic conductivity. This finding was published in the [first of two peer-reviewed papers](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c06455){:target="_blank"}. The [second paper](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.4c01192){:target="_blank"} built on this knowledge, using a new salt, NaFSI, to increase conductivity (via increased dissociation). These results contribute to safer, more efficient solid polymer electrolytes and provide key insights into how fillers affect ion transport in solid-state batteries.
 
+Some photos of my lab work can be found **[here](./assets/documents/Polymer_Electrolyte_Photo_Gallery.pdf){:target="_blank"}**
+
 For more details, check out these **[slides](./assets/documents/VIPR 121 Final Presentation.pdf){:target="_blank"}** or the **[poster](./assets/documents/APS Electrolyte Poster Final.pdf){:target="_blank"}** I presented at the national [APS conference](https://march.aps.org){:target="_blank"}!
 
 
