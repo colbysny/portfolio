@@ -37,7 +37,8 @@ I developed a thermal test stand to evaluate the cooling performance of composit
 
 After executing three control studies to confirm the system’s accuracy, I programmed an Omega data acquisition system to automate irradiation tests. This increased throughput 6x (previously 3 hours per sample) through parallel testing and automatic data logging. Finally, I analyzed and visualized my results in Python. The project successfully demonstrated the effectiveness of the coatings in reducing thermal loads, contributing to the development of more energy-efficient roofing materials.
 
-Check out an earlier Arduino-based iteration of this project **[here](./assets/documents/Cool Roofs Design V1.pdf){:target="_blank"}**!
+For details about the design process, see **[this report!](./assets/documents/Portfolio_ThermalTestStand-3.pdf){:target="_blank"}**
+You can also check out an earlier Arduino-based iteration of this project **[here](./assets/documents/Cool Roofs Design V1.pdf){:target="_blank"}**!
 
 <br><br>
 
