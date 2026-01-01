@@ -7,6 +7,24 @@
 
 <br>
 
+## Functional Materials R&D at Commonwealth Fusion Systems
+### _building the world's first fusion power plant_ 
+
+![Abstract Figure](assets/SPARC.jpg)
+I worked on applied materials problems supporting the first commercial fusion power plant, focusing on the mechanical behavior of high-temperature superconducting (HTS) tape stacks at cryogenic temperatures. I developed a repeatable specimen-preparation method where none existed, designed and machined custom fixtures, and performed cryogenic mechanical and thermal-expansion tests. The results showed that stack stiffness and expansion are dominated by compliant solder layers, reducing uncertainty and enabling higher-confidence structural modeling for fusion magnets. In parallel, I contributed to R&D on glass fiber composites and high-vacuum systems. Working in a startup lab taught me the value of building scrappy, reliable experiments to de-risk first-of-a-kind systems.
+
+<br>
+<br>
+
+## Lithium-ion cell development at Tesla
+### _scaling up next-generation battery technology_ 
+
+![Abstract Figure](assets/4680.jpg)
+Cold temperatures constrain fast charging due to lithium plating risk. I led experimental and modeling work to evaluate cell heating strategies that preserve cycle life at scale, combining low-temperature cell cycling, electrochemical diagnostics (3-electrode tests, SEM/EDS), and physics-based modeling (COMSOL + Python) multiple cell programs. This effort demonstrated that mid-frequency AC current can ohmically heat cold-soaked cells without inducing significant Li⁰ plating, bounding risk through capacity analysis and microscopy. The resulting cold-weather charging features are now deployed across millions of battery packs, contributing to millions in savings. The experience taught me that battery innovations only matter if they are reliable, manufacturable, and safe at planetary scale, and that tight coupling between experiments, models, and deployment constraints (product) is essential.
+
+<br>
+<br>
+
 ## Sodium Battery Electrolytes
 ### _peer-reviewed materials engineering research_ 
 
@@ -32,7 +50,7 @@ To complete this research project, I learned a wide variety of materials process
 
 <br><br>
 ## Thermal Coating Test Stand
-### _enabling materials discovery for urban heat_
+### _enabling materials discovery for urban heat mitigation_
 ![Test stand during an outdoor irradiation experiment](assets/outdoor_roof_photo.png)
 
 I developed a thermal test stand to evaluate the cooling performance of composite roof coatings, which are intended to improve building energy efficiency and combat urban heat. Using Fusion 360, I designed a "model house" that could accommodate type T thermocouples (selected for their accuracy in the 50–100°C range), humidity sensors, and aluminum test substrates. I then 3D-printed the models with white ASA material, which minimized unwanted solar absorbance and prevented deformation (due to the high glass transition temperature of ASA). Finally, I integrated a pyranometer to measure solar flux, enabling representative outdoor testing under uncontrolled radiation conditions. 
