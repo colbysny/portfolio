@@ -1,4 +1,6 @@
 # Projects
+- [CFS R&D Internship](#functional-materials-research-at-commonwealth-fusion-systems)
+- [Tesla TPM Internship](#lithium-ion-cell-development-at-tesla)
 - [Sodium Battery Electrolytes](#sodium-battery-electrolytes)
 - [Thermal Test Stand](#thermal-coating-test-stand)
 - [Ceramic Composites](#ceramic-composite-process-development)
@@ -7,11 +9,11 @@
 
 <br>
 
-## Functional Materials R&D at Commonwealth Fusion Systems
+## Functional Materials Research at Commonwealth Fusion Systems
 ### _building the world's first fusion power plant_ 
 
 ![Abstract Figure](assets/SPARC.jpg)
-I worked on applied materials problems supporting the first commercial fusion power plant, focusing on the mechanical behavior of high-temperature superconducting (HTS) tape stacks at cryogenic temperatures. I developed a repeatable specimen-preparation method where none existed, designed and machined custom fixtures, and performed cryogenic mechanical and thermal-expansion tests. The results showed that stack stiffness and expansion are dominated by compliant solder layers, reducing uncertainty and enabling higher-confidence structural modeling for fusion magnets. In parallel, I contributed to R&D on glass fiber composites and high-vacuum systems. Working in a startup lab taught me the value of building scrappy, reliable experiments to de-risk first-of-a-kind systems.
+I worked on applied materials problems supporting the first commercial fusion power plant, focusing on the mechanical behavior of high-temperature superconducting (HTS) tape stacks at cryogenic temperatures. I developed a repeatable specimen-preparation method where none existed, designed and machined custom fixtures, and performed cryogenic mechanical and thermal-expansion tests. The results reduced uncertainty and enabled higher-confidence structural modeling for fusion magnets. In parallel, I contributed to R&D on glass fiber composites and high-vacuum systems. Working in a startup lab taught me the value of building scrappy, reliable experiments to de-risk first-of-a-kind systems.
 
 <br>
 <br>
@@ -20,7 +22,7 @@ I worked on applied materials problems supporting the first commercial fusion po
 ### _scaling up next-generation battery technology_ 
 
 ![Abstract Figure](assets/4680.jpg)
-Cold temperatures constrain fast charging due to lithium plating risk. I led experimental and modeling work to evaluate cell heating strategies that preserve cycle life at scale, combining low-temperature cell cycling, electrochemical diagnostics (3-electrode tests, SEM/EDS), and physics-based modeling (COMSOL + Python) multiple cell programs. This effort demonstrated that mid-frequency AC current can ohmically heat cold-soaked cells without inducing significant Li⁰ plating, bounding risk through capacity analysis and microscopy. The resulting cold-weather charging features are now deployed across millions of battery packs, contributing to millions in savings. The experience taught me that battery innovations only matter if they are reliable, manufacturable, and safe at planetary scale, and that tight coupling between experiments, models, and deployment constraints (product) is essential.
+Cold temperatures constrain fast charging due to lithium plating risk. I led experimental and modeling work to evaluate cell heating strategies that preserve cycle life at scale, combining low-temperature cell cycling, electrochemical diagnostics (3-electrode tests, SEM/EDS), and physics-based modeling (COMSOL + Python) multiple cell programs. This effort demonstrated that a specific AC waveform can ohmically heat cold-soaked cells without inducing Li⁰ plating, bounding risk through capacity analysis and microscopy. The resulting cold-weather charging features are now deployed across millions of battery packs, contributing to millions in savings. The experience taught me that battery innovations only matter if they are reliable, manufacturable, and safe at planetary scale, and that tight coupling between experiments, models, and deployment constraints (product) is essential.
 
 <br>
 <br>
