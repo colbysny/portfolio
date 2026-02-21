@@ -2,13 +2,12 @@ theme: jekyll-theme-minimal
 title: Colby Snyder
 logo: /assets/headshot_circle.png
 description: >
-  I’m Colby, a senior at UPenn pursuing dual Bachelor’s degrees in Chemical Engineering and Physics in the VIPER program. I love building clean energy tech, playing the cello, and hiking new parks.  
-  
-  I've managed Li-ion cell development programs at Tesla, engineered materials for nuclear fusion reactors at CFS and General Atomics, led a neighborhood-scale cool coatings project for the Philadelphia Office of Sustainability, and published peer-reviewed battery materials research at Penn.  
-  
-  Reach out by <a href="mailto:colbysny@seas.upenn.edu">email</a> or <a href="https://www.linkedin.com/in/colbysny/" target="_blank">LinkedIn</a> if you’d like to chat!
-
-
+  Senior at UPenn (Chemical Engineering + Physics, VIPER) building practical clean-energy systems across batteries, fusion, and climate technology.
+url: https://colbysny.github.io
+baseurl: /portfolio
+email: colbysny@seas.upenn.edu
+linkedin_url: https://www.linkedin.com/in/colbysny/
+github_url: https://github.com/colbysny
 
 
 
