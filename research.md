@@ -30,8 +30,8 @@ permalink: /research/
 
   <h2>Conference Presentations</h2>
   <ul>
-    <li>APS March Meeting (2024)</li>
-    <li>AIChE Annual Meeting (2024)</li>
-    <li>AIChE Annual Meeting (2025)</li>
+    <li>Snyder, C., Chiang, J., Field, K., Composto, R. “Cool Coating Materials for Urban Heat Resilience.” 2025 AIChE Annual Meeting</li>
+    <li>Snyder, C., Field, K., Composto, R. “Cool Roof Coatings for Urban Heat Mitigation.” Penn Energy Week 2024</li>
+    <li>Snyder, C., Pathreeker, S., Composto, R. “Hexagonal Boron Nitride Modulates Crystallinity and Charge Mobility in PEO–NaNO3 Electrolytes.” 2024 APS March Meeting</li>
   </ul>
 </section>
