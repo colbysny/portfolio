@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Resume
-permalink: /resume/
+title: About Me
+permalink: /about/
 ---
 
 <section class="hero compact">
   <div class="hero-copy">
-    <p class="eyebrow">Abridged Resume</p>
-    <h1>Resume</h1>
+    <h1>About Me</h1>
     <p>I’m Colby, a senior at UPenn pursuing dual Bachelor’s degrees in Chemical Engineering and Physics in the VIPER program. I love building clean energy tech, playing the cello, and hiking new parks.</p>
   </div>
 </section>

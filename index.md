@@ -6,14 +6,9 @@ permalink: /
 
 <section class="hero">
   <div class="hero-copy">
-    <p class="eyebrow">Chemical Engineering + Physics (VIPER), University of Pennsylvania</p>
+    <p class="eyebrow">Physics + Chemical Engineering, VIPER @ University of Pennsylvania</p>
     <h1>Projects</h1>
     <p>I build practical clean-energy systems across batteries, fusion, and climate technology.</p>
-    <div class="cta-row">
-      <a class="button primary" href="{{ '/research/' | relative_url }}">Research</a>
-      <a class="button" href="{{ '/resume/' | relative_url }}">Resume</a>
-      <a class="button" href="{{ site.linkedin_url }}" target="_blank" rel="noopener">LinkedIn</a>
-    </div>
   </div>
   <img class="hero-photo" src="{{ site.logo | relative_url }}" alt="Portrait of Colby Snyder">
 </section>
