@@ -109,6 +109,10 @@ a:hover {
   box-shadow: var(--shadow);
 }
 
+.hero.compact {
+  grid-template-columns: 1fr;
+}
+
 .hero h1 {
   margin: 0.4rem 0 1rem;
   line-height: 1.18;
@@ -161,6 +165,21 @@ a:hover {
   margin-top: 2rem;
 }
 
+.prose h2 {
+  margin: 0 0 0.75rem;
+}
+
+.prose ul,
+.prose ol {
+  margin: 0 0 1.4rem 1.2rem;
+  padding: 0;
+}
+
+.prose li {
+  margin: 0 0 0.55rem;
+  color: var(--muted);
+}
+
 .section-head h2 {
   font-size: clamp(1.4rem, 2.4vw, 2rem);
   margin: 0 0 1rem;
@@ -179,9 +198,10 @@ a:hover {
 
 .project-card img {
   width: 100%;
-  height: 100%;
-  min-height: 240px;
-  object-fit: cover;
+  height: 260px;
+  object-fit: contain;
+  background: #f1f5f3;
+  padding: 0.45rem;
 }
 
 .project-card div {
@@ -221,6 +241,6 @@ a:hover {
   }
 
   .project-card img {
-    min-height: 200px;
+    height: 220px;
   }
 }
